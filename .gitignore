@@ -284,3 +284,4 @@ fabric.properties
 .DS_Store
 .DS_Store
 final_template.zip
+db.sqlite3
